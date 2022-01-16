@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/jediswear/conventional-commits/compare/v1.1.0...v1.2.0) (2022-01-16)
+
+
+### Features
+
+* implement feature 2 ([ce37676](https://github.com/jediswear/conventional-commits/commit/ce376769a490547ff06663693d82591946500178))
+* implement feature 3 ([f142574](https://github.com/jediswear/conventional-commits/commit/f14257417276cd4e99f669ee13196771e3305af9))
+
 ## [1.1.0](https://github.com/jediswear/conventional-commits/compare/v1.0.0...v1.1.0) (2022-01-16)
 
 
