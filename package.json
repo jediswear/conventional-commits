@@ -1,0 +1,11 @@
+{
+  "name": "convantional-commits-test",
+  "version": "1.0.0",
+  "description": "demo for using conventional commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
