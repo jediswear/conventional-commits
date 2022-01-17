@@ -14,23 +14,23 @@
     },
     {
       "type": "docs",
-      "hidden": false
+      "hidden": "Documentation"
     },
     {
       "type": "style",
-      "hidden": false
+      "hidden": "Improvements"
     },
     {
       "type": "refactor",
-      "hidden": false
+      "hidden": "Improvements"
     },
     {
       "type": "perf",
-      "hidden": false
+      "hidden": "Improvements"
     },
     {
       "type": "test",
-      "hidden": false
+      "hidden": "Testing"
     }
   ]
 }
