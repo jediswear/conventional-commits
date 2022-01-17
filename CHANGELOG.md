@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/jediswear/conventional-commits/compare/v1.2.1...v1.3.0) (2022-01-17)
+
+
+### Features
+
+* **XUNL-1021:** subject ([e88bd60](https://github.com/jediswear/conventional-commits/commit/e88bd60a6509b68b99b8b0ed0af286d885a94780))
+
 ### [1.2.1](https://github.com/jediswear/conventional-commits/compare/v1.2.0...v1.2.1) (2022-01-16)
 
 
